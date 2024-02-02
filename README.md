@@ -16,8 +16,8 @@ I have experience in the following programming languages & framework:
 
 ## In the future? 🏃🏼
 
-I intend to finish the common core of 42 and graduate by the end of the year.
-I would also like to deepen my knowledge of cybersecurity.
+I intend to finish the common core of 42 and find the appropriate job for me.
+I would also like to deepen my knowledge of Web development.
 
 ## Contact me 📩
 
