@@ -20,7 +20,7 @@ In the future, I aim to deepen my expertise in software development, explore eme
 
 ## Contact me 📩
 
-You can contact me via e-mail at **andreamargiacchi11@libero.it**
+You can contact me at **andreamargiacchi11@libero.it**
 
 ## If you've made it this far! 🙏
 
