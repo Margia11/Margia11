@@ -2,8 +2,7 @@
 
 ## About me 🙋🏼‍♂️
 
-I'm Andrea Margiacchi, a student of [42Roma Luiss](https://42roma.it/) the best programming school in the world, which is part of the [Ecolè42 Network](https://www.42network.org/).     
-You can find me on the intra as **amargiac**.
+I'm Andrea Margiacchi, Junior Developer passionate about software development, with experience in full-stack projects and technologies like Java, Spring, Maven, and React. I enjoy solving complex problems and contributing to open-source projects. Always open to new challenges and learning opportunities.
 
 ## Languages 👾
 
@@ -16,8 +15,7 @@ I have experience in the following programming languages & framework:
 
 ## In the future? 🏃🏼
 
-I intend to finish the common core of 42 and find the appropriate job for me.
-I would also like to deepen my knowledge of Web development.
+In the future, I aim to deepen my expertise in software development, explore emerging technologies, and take on more complex projects. My goal is to continue growing as a full-stack developer while contributing to innovative solutions that make a meaningful impact.
 
 ## Contact me 📩
 
